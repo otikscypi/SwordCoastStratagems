@@ -254,3 +254,44 @@ UWAGA: ustawienia trudności dla poszczególnych składników można dostrajać 
 @1134 = "Wrogowie są jeszcze liczniejsi i uzyskują kolejne premie do swoich punktów życia i umiejętności. Przeciwnicy mogący rzucać zaklęcia robią to agresywnie i zawczasu przed walką."
 @1135 = "Wrogowie zachowują wszelkie korzyści, jakie odnosili na poziomie trudności Szalony, jak również otrzymują znacznie więcej punktów życia, poprawione TraK0, lepsze rzuty obronne oraz więcej ataków na rundę. Każdy wystarczająco potężny przeciwnik będzie korzystać z umiejętności wysokopoziomowych.\n\nUWAGA: poziom trudności Dziedzictwo Bhaala może zostać wybrany tylko na początku gry i nie może być zmieniony w jej trakcie!"
 @1136 = "Drużyna uzyskuje wszelkie korzyści wynikające z poziomu trudności Podstawowy, a ponadto jej członkowie nie mogą zginąć podczas walki."
+
+// strings 2000-2999 reserved for short-version descriptions (must be 1000+long-version descriptions)
+@2040=~MAG OGÓLNY~
+@2041=~MAG PRZYGOTOWANY~
+@2042=~MAG WYS. POZIOM~
+@2043=~KAPŁAN OGÓLNY~
+@2044=~KAPŁAN PRZYGOTOWANY~
+@2045=~KAPŁAN WYS. POZIOM~
+@2046=~RÓŻNE~
+@2047=~DEMONY/NIEBIANIE~
+@2048=~SMOKI~
+@2049=~WIEŻA DURLAGA~
+
+@2060=~ŁUPIEŻCY UMYSŁU~
+@2061=~OGROMNE PAJĄKI~
+@2062=~ASCENSION~
+@2063=~BODHI~
+@2064=~WAMPIRY~
+@2065="MIASTO DROWÓW"
+@2066="OBSERWATORZY"
+@2067="LEŻE OBSERWATORÓW"
+@2068="DŻINY"
+@2069="TB OSTATNI WRÓG"
+@2070="CZAROWIĘZY"
+@2071="SOBOWTÓRNIAKI"
+@2072="LOSOWE SPOTKANIA"
+@2073="TWIERDZA DE'ARNISE"
+@2074="ZAPASY"
+
+@3000="DEFAULT"
+@3001="BASIC"
+@3002="IMPROVED"
+@3003="TACTICAL"
+@3004="HARDCORE"
+@3005="INSANE"
+@3006="INSANE PLUS"
+@3007="DZIEDZICTWO BHAALA"
+@3008="SERCE FURII"
+
+@3100="Dostrojony poziom trudności"
+@3101="WYBIERZ RODZAJ PRZECIWNIKA"

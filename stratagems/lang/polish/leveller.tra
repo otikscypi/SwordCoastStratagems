@@ -69,3 +69,7 @@ Wymagania dotyczące charakteru i cech postaci nie są weryfikowane ani wymuszan
 UWAGA: jeżeli grasz z wyłączoną SI drużyny, włącz ją na czas awansowania swojej postaci, jeśli zamierzasz zmienić jej klasę.~
 @50 = ~Ograniczenia rasowe/klasowe zostały zniesione. Nie pozwól nikomu przeszkodzić w spełnianiu twoich marzeń!~
 @51 = ~Ograniczenia rasowe/klasowe przywrócone. Witaj z powrotem w AD&D, brakowało nam ciebie.~
+@52="Łowca (nie możesz wybrać wroga rasowego)"
+@53="Kapłan/Łowca (nie możesz wybrać wroga rasowego)"
+@54="Dziki Mag (musisz zapisać grę i wczytać ją ponownie by otrzymać swoje dodatkowe czary)"
+@55="Oryginalna klasa"

@@ -24,25 +24,53 @@ Odkryliśmy, że jeden ze zwolenników Baltazara został tu uwięziony. Przed ś
 PARAMETRY:
 
 Waga: 15~
+
 @3016 = ~Zbroja z łusek żółtego smoka~
+//@3016 vanilla format
 @3017 = ~Zbroja z łusek żółtego smoka
 
-Ten pancerz jest wykonany z zachodzących na siebie łusek żółtego smoka. Żółte smoki znane są ze swych piaskowo-ognistych ataków i odporności na bronie kłute. Ten szczególny pancerz został wykuty z łusek żółtego smoka Anadramatisa.
+Ten pancerz jest wykonany z zachodzących na siebie łusek żółtego smoka. Żółte smoki znane są ze swych piaskowo-ognistych ataków i odporności na bronie kłute. 
+
+Ten szczególny pancerz został wykuty z łusek żółtego smoka Anadramatisa.
 
 PARAMETRY:
 
 Specjalne:
 – Odporność na bronie kłute i pociski: +50%
 
-Klasa Pancerza: -1 (-3 przeciw broniom siecznym, -2 przeciw broniom kłutym i pociskom)
+Klasa Pancerza: -1
+
+Waga: 10
 
 Wymagania:
 – Siła: 6
 
-Waga: 30
 
 Nie może używać:
- Mag~
+ Mag
+ Czarownik
+ Mnich
+ Zmiennokształtny
+ Kensai~
+/*
+//@3016 EE format
+@? = ~Ten pancerz jest wykonany z zachodzących na siebie łusek żółtego smoka. Żółte smoki znane są ze swych piaskowo-ognistych ataków i odporności na bronie kłute. 
+
+Ten szczególny pancerz został wykuty z łusek żółtego smoka Anadramatisa.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na pociski: +50%
+– Odporność na bronie kłute: +50%
+
+Klasa pancerza: -1 (2 przeciw broniom siecznym, 1 przeciw broniom kłutym i pociskom)
+Wymagania:
+– Siła: 6
+
+Waga: 10~
+*/
+
 @3018 = ~Amulet Anadramatisa~
 @3019 = ~Amulet Anadramatisa
 
@@ -124,6 +152,7 @@ Waga: 1~
 @3095 = ~Ty masz... co? Żółte i białe? Fuj, śmierdzą. Zrobię ci zbroję łuskową z białego smoka i hmmm... zbroję z żółtego. Każda za pięć tysięcy sztuk złota, co ty na to?~
 @3096 = ~Ty masz... co? Żółtą i niebieską? Fuj, śmierdzą. Zrobię ci zbroję łuskową z żółtego smoka i hmmm... zbroję płytową z niebieskiego smoka. Każda za pięć tysięcy sztuk złota, co ty na to?~
 @3097 = ~Ach, to łuski żółtego smoka, co? Zrobię ci dobrą zbroję łuskową, dobrą przeciw ostrym rzeczom. Potrzebuję jedyne pięć tysięcy sztuk złota, chcesz?~
+
 @3200 = ~Wyglądasz przez to szerokie wejście do jaskini i widzisz pionowe urwisko ciągnące się setki metrów w dół, aż do poziomu terenów pustynnych.~
 @3201 = ~W głąb Enklawy~
 @3202 = ~Wejście od strony urwiska~

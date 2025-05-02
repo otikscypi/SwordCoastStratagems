@@ -1,3 +1,4 @@
+@3 = ~Zmiany w systemie czarow~
 @4 = ~Ulepszenia rozgrywki~
 @5 = ~Instaluj w trybie wsadowym (instalator pyta o wszystkie skladniki przed rozpoczeciem instalacji). NIE NALEZY UZYWAC Z PROJECT INFINITY.~
 @6 = ~Rozszerzenia SI~
@@ -15,9 +16,11 @@
 @22 = ~Przeksztalc Miniaturowe meteory Melfa w bron +2~
 @23 = ~Zmien Slowo mocy: oslepienie tak, aby dzialalo tylko na jeden cel~
 @27 = ~Do instalacji modyfikacji w tej grze wymagany jest Modmerge. Wiecej informacji oraz odnosnik do sciagniecia Modmerge'a znajdziesz w pliku readme.~
+
 @28 = ~Ukoncz instalacje w trybie wsadowym~
 @29 = "Instaluj wybrane skladniki"
 @30 = "Tylko utworz plik wsadowy instalacji (i odinstaluj wszystkie dotychczas zainstalowane skladniki)"
+
 @31 = ~Usun z gry Tarcze Baldurana~
 @32 = ~Usun Niewidzialnosc z Kostura Magow~
 @33 = ~Przenies Helm Vhailora do Tronu Bhaala~
@@ -45,6 +48,7 @@
 @78 = ~Inteligentniejsi lupiezcy umyslow~
 @80 = ~Inteligentniejsi magowie~
 @84 = ~Inteligentniejsi kaplani~
+@85 = ~Ulepszeni nieumarli (Icewind Dale)~
 @151 = ~Inteligentniejsi githyanki~
 @154 = ~Powiaz trudnosc zaleznych od poziomu grup potworow z suwakiem trudnosci gry~
 @155 = ~Zbalansowana regeneracji trolli~
@@ -88,7 +92,38 @@
 @231 = ~Pomijam ten skladnik, jako ze podobne zmiany zostaly wprowadzone przez Tome and Blood~
 @232 = ~Zlodzieje rozdzielaja punkty zdolnosci za pomoca wielokrotnosci liczby 5~
 @233 = ~Zaklecia Przywrocenie i Mniejsze przywrocenie lecza obrazenia wysysajace cechy postaci~
+@234 = ~Pomijam ten skladnik, z powodu konfliktu ze zmianami dokonanymi przez Spell Revisions~
+
+@1000 = ~Zmiany w systemie czarow i nowe czary~
+
+
+@1006 = ~Zainstaluj wszystkie modyfikacje czarow (jezeli tego nie wybierzesz, bedziesz mial mozliwosc wyboru poszczegolnych kategorii)~
+
+@1007 = ~Podstawowe zmiany Stratagems w systemie czarow (instalowane domyslnie przez dowolny z komponentow SI)~
+@1008 = ~Zmiany do czarow Icewind Dale inspirowane przez Baldur's Gate~
+@1009 = ~Zmiany do Przywracania~
+@1010 = ~Zmiany do czarow zmiany ksztaltu~
+@1011 = ~Zmiany do czarow Baldur's Gate/Baldur's Gate 2 inspirowane przez Icewind Dale~
+@1012 = ~Zbalansowanie nieco zbyt poteznych zaklec~
+@1013 = ~Zmiany szkol czarow~
+@1014 = ~Wzmocnione czary~
+
+
+@1020 = ~Dodaj 9 nowych zaklec maga~
+@1021 = ~Dodaj 9 nowych zaklec kaplana (niektore pozyczone z Divine Remix)~
+@1022 = ~Zmodyfikowane zywolaki i przywolywanie zywiolakow~
+
+@1030 = ~Popraw rozne bledy i niekonsekwencje w uzyciu, wygladzie i usuwaniu magicznych efektow (mocno rekomendowane)~
+
+@1090 = "Pomijam ten komponent gdyz jego zawartosc jest juz zainstalowana"
+@1091 = "Ten komponent jest dostepny wylacznie dla instalacji Enhanced Edition"
+@1098 = "Ten komponent nie jest dostepny dla Icewind Dale: Enhanced Edition"
+@1099 = "Ten komponent wymaga Icewind Dale: Enhanced Edition"
+
 @2000 = ~Ten skladnik dziala tylko w instalacjach pod Windows oraz nie dziala w wersji Enhanced Edition~
+@2001 = ~Ten komponent musi byc zainstalowany przed 'Inicjalizuj skladniki SI', a nie po nim~
+@2002 = ~Ten komponent dziala wylacznie na Baldur's Gate: Enhanced Edition i Baldur's Gate II: Enhanced Edition~
+
 @3203 = ~Ulepszone pomniejsze potyczki (BG2)~
 @3209 = ~Inteligentniejszy ostatni przeciwnik w Tronie Bhaala~
 @3306 = ~Inteligentniejsza Illasera~
@@ -143,7 +178,18 @@
 @3398 = ~Ulepszone Niewidzace Oko~
 @3399 = ~Ten skladnik wymaga zainstalowania "Inteligentniejszych obserwatorow"~
 @3400 = ~Przeksztalc Sekwencery zaklec i Warunkowania we wrodzone zdolnosci~
+@3401 = ~Poprawiona obsluga efektow smierci takich jak dezintegracja, petryfikacja i uwiezienie (czlonkowie druzyny ktorzy zostali zdezintegrowani itd moga zostac wskrzeszeni; uwiezione i zamienione w kamien postacie automatycznie dolaczaja do druzyny; gra nie konczy sie gdy glowna postac zostala uwieziona lub zamieniona w kamien)~
+@3402 = ~Poprawiony odpoczynek: Odpoczywanie w dziczy wymaga zapasow~
 
+@3403 = ~Poprawione pokoje w karczmach: drozsze, wiecej korzysci~
+@10005 = ~Instaluj w trybie batch (zostaniesz zapytany o wszystkie komponenty przed rozpoczeciem instalacji). NIE UZYWAJ Z PROJECT INFINITY.~
+
+@10028 = ~Zakoncz instalacje w trybie batch~
+@10029 = "Zainstaluj zaplanowane komponenty"
+@10030 = "Utworz plik instalacji batch (i usun wszystkie zainstalowane komponenty)"
+
+
+@15998 = ~Ten komponent nie moze byc zainstalowany po 'Zlodzieje rozdzielaja punkty zdolnosci za pomoca wielokrotnosci liczby 5'~
 @15999 = ~Pomijam ten skladnik, poniewaz ze nie dotyczy on Enhanced Edition~
 @16000 = ~Pomijam ten skladnik, poniewaz ze dotyczy on tylko BG2~
 @16001 = ~Pomijam ten skladnik, poniewaz ze dotyczy on tylko BG1~
@@ -200,7 +246,7 @@
 @20093 = ~Ulepszeni zabojcy w Podziemnym miescie~
 @20094 = ~Wieksza pula losowych zwojow~
 @20095 = ~Uzyj wersji zaklecia Plaga owadow i Pelzajaca zaglada z Baldur's Gate II~
-
+@20096 = ~Wieksza dostepnosc zwojow czarow maga w Icewind Dale~
 @24118 = ~Bardziej realistyczne wilki i dzikie psy~
 @24119 = ~Dodaj zaklecia maga z Icewind Dale: Enhanced Edition~
 @24120 = ~Dodaj zaklecia kaplana z Icewind Dale: Enhanced Edition~
@@ -210,6 +256,11 @@
 @24124 = ~SCS dla Baldur's Gate II wymaga albo wersji Enhanced Edition, albo instalacji BG2 Fixpack (informacje skad pobrac znajdziesz w dokumentacji)~
 @24125 = ~Ulepszony powitalny ekran tekstowy w Opowiesciach z Wybrzeza Mieczy~
 @24126 = ~Ulepszona interakcja z Carsa i Kahrkiem~
+@24127 = ~Uzyj wersji zaklecia Plaga owadow i Pelzajaca zaglada z Baldur's Gate zamiast wersji z Icewind Dale~
+@24128 = ~Uzyj wersji zaklecia Miecz Mordenkainena razem z wersja z Icewind Dale~
+@24129 = ~Strzaly zadajace obrazenia od zywiolow dzialaja na wzor BG2~
+@24130 = ~Dodaj piesni barda z Icewind Dale: Enhanced Edition~
+
 
 @50000 = ~Ten skladnik zostal wycofany z uzytku~
 @50001 = ~Ten skladnik jest zawarty w skladniku "inicjalizujacym". Jesli nie chcesz z niego korzystac, edytuj plik stratagems.ini~
@@ -224,3 +275,7 @@
 @50010 = ~Ten skladnik nie jest kompatybilny ze skladnikiem Tweaks Anthology uniemozliwiajacym dwuklasowanie ludzi~
 @50011 = ~Tryb wsadowy jest dostepny jedynie w systemie operacyjnym Windows~
 @50012 = ~Ten skladnik jest wykorzystywany tylko w trybie wsadowym~
+@50013 = ~This component is now included in the 'Stratagems spell tweaks' component~
+@50014 = ~This component is incompatible with the 'revised and rebalanced kits' component of Talents of Faerun~
+@50015 = ~Skipping this component as an equivalent component from Talents of Faerun is already installed~
+@50016 = ~This component is incompatible with the 'revised shapeshifting' component of Talents of Faerun~
