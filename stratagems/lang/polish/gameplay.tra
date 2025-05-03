@@ -1,6 +1,6 @@
 
 @10 = ~LANGUAGE_CAN_SUBSTITUTE~
-@601 = ~Tryb rzucania czarów przed walką włączony; nie pić mikstur leczniczych~
+@601 = ~Tryb rzucania czarów przed walką włączony; bez picia mikstur leczniczych~
 @602 = ~Tryb rzucania czarów przed walką wyłączony~
 @603 = ~Tryb rzucania czarów przed walką włączony; picie mikstur leczniczych~
 @604 = ~Tryb rzucania czarów przed walką włączony; picie mikstur dodatkowego leczenia~
@@ -58,7 +58,7 @@
 @1605 = ~Czterdzieści pięć tysięcy~
 @1606 = ~Sześćdziesiąt tysięcy~
 @1607 = ~Osiemdziesiąt tysięcy~
-@1608 = ~Siedemdziesąt pięć tysięcy~
+@1608 = ~Siedemdziesiąt pięć tysięcy~
 @1609 = ~Sto tysięcy~
 @1610 = ~Dziewięćdziesiąt tysięcy~
 @1611 = ~Sto dwadzieścia tysięcy~    

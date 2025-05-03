@@ -4,13 +4,15 @@ DEFINE_ACTION_FUNCTION license_cost STR_VAR version=5 BEGIN   //price is as defi
 	OUTER_SPRINT pricestring ~%version%000~
     OUTER_SPRINT pricestring_comma ~%version%,000~
 	OUTER_SPRINT pricestring_period ~%version%.000~
-       
+    OUTER_SPRINT pricestring_space ~%version% 000~   // Polish formatting
+
     ACTION_FOR_EACH tlk_entry IN 59586 59587 59591 BEGIN
 		ACTION_GET_STRREF tlk_entry tlk_string
 		OUTER_PATCH_SAVE tlk_string "%tlk_string%" BEGIN
 			REPLACE_TEXTUALLY "5000" "%pricestring%"
 			REPLACE_TEXTUALLY "5,000" "%pricestring_comma%"
 			REPLACE_TEXTUALLY "50?\.000" "%pricestring_period%" // the optional 50,000 fixes a bug in the French string
+			REPLACE_TEXTUALLY "pięć tysięcy" %pricestring_space%" // to handle Polish version that uses a text instead of a number, thankfully consistently
 		END
 		STRING_SET_EVALUATE tlk_entry "%tlk_string%"
     END
