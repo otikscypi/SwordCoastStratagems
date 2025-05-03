@@ -12,7 +12,7 @@ DEFINE_ACTION_FUNCTION license_cost STR_VAR version=5 BEGIN   //price is as defi
 			REPLACE_TEXTUALLY "5000" "%pricestring%"
 			REPLACE_TEXTUALLY "5,000" "%pricestring_comma%"
 			REPLACE_TEXTUALLY "50?\.000" "%pricestring_period%" // the optional 50,000 fixes a bug in the French string
-			REPLACE_TEXTUALLY "pięć tysięcy" %pricestring_space%" // to handle Polish version that uses a text instead of a number, thankfully consistently
+			REPLACE_TEXTUALLY "pięć tysięcy" "%pricestring_space%" // to handle Polish version that uses a text instead of a number, thankfully consistently
 		END
 		STRING_SET_EVALUATE tlk_entry "%tlk_string%"
     END
